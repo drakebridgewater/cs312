@@ -28,7 +28,7 @@ else
 # Otherwise build without errors since the interwiki file doesn't exist yet and
 # it will fail as a warning.
   make slides
-  make html
+  make html 
 fi
 
 # Disable venv
